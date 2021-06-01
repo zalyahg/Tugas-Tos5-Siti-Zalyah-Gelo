@@ -1,15 +1,16 @@
 body{
-	font-family: arial;
+	font-family: calibri;
 	background-image: url(Background.jpg);
 }
 
 h2{
-	font-family: georgia;
+	font-family: comic;
 	font-size: 30px;
         font-style: italic;
     	text-align: center;
     	padding-top: 50px;
     	height: 150px;
+	color: grey;
 
 }
 
@@ -42,7 +43,8 @@ h2{
 
 .footer{
 	display: block;
-	text-align: center;
-	margin-top: 0px;
-	padding-bottom: 10px;
+   	text-align: center;
+    	margin-top: 0px;
+    	padding-bottom: 10px;
+    	color: grey;
 }
