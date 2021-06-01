@@ -1,19 +1,20 @@
 body{
 	font-family: arial;
+	background-image: url(Background.jpg);
 }
 
 h2{
 	font-family: georgia;
 	font-size: 30px;
-    font-style: italic;
-    text-align: center;
-    padding-top: 50px;
-    height: 150px;
+        font-style: italic;
+    	text-align: center;
+    	padding-top: 50px;
+    	height: 150px;
 
 }
 
 #header{
-	background-color: silver;
+	background-color: pink;
 	width: 700px;
 	height: 150px;
 	margin:0px auto;
@@ -25,17 +26,18 @@ h2{
 	border-width: 1px;
 	width: 648px;
 	border-style: solid;
-	border-color: gray;
+	border-color: silver;
 	padding: 25px;
 	margin: 0px auto;
 }
 
 #footer{
-	background-color: grey;
+	background-color: pink;
 	color: white;
 	width: 700px;
 	height: 40px;
 	margin: 0px auto;
+	color: grey;
 }
 
 .footer{
