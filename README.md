@@ -1,2 +1,2 @@
 # Tugas-Tos5-Siti-Zalyah-Gelo
-membuat web sederhana
+membuat website sederhana
